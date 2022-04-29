@@ -44,7 +44,7 @@
 				and then you add input tag and run script:
   				<pre>
 	<code>
-	&lt;input type="text" id="shamsidate4" value="1399/13/20" class="jalaliDate"/&gt;
+	&lt;input type="text" id="shamsidate4" value="1399/12/20" class="jalaliDate"/&gt;
 	&lt;script &gt;$('.jalaliDate').ShamsiDatePicker(); &lt;/script&gt;
 	</code>
 				</pre>
