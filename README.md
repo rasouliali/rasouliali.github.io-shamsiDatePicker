@@ -1,26 +1,4 @@
-<html>
-<head>
-	
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="shamsi,datepicker,jalali,persian,jalali datepicker,persian datepicker,html date picker,شمسی,جلالی,فارسی,تاریخ شمسی,تاریخ جلالی,تاریخ ایرانی,تاریخ فارسی,تاریخ اچ تی ام ال" />
-  <meta name="description" content="نمونه کد برای انتخاب تاریخ شمسی یا حلالی یا فارسی یا ایرانی برای html">
 
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <link rel="stylesheet" href="./style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
-  <script src="./jalalidatepicker.js"></script>
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-  <meta name="author" content="ali.r.programmer@gmail.com">
-  <style>
-	pre{
-		background-color: silver;
-		border: 1px solid black;
-	  }
-  </style>
-</head>
-<body>
 	<div class="container"> 
 		<h1>Shamsi Date Picker</h1>
 		<div class="row">
@@ -47,8 +25,12 @@
   				<pre>
 					<code>
 					&lt;link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"&gt;
+					&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/style.css"&gt;
+					
 					&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
 					&lt;script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"&gt;&lt;/script&gt;
+					&lt;script src="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/jalalidatepicker.js"&gt;&lt;/script&gt;
+					
 					</code>
 				</pre>
 			</div>
@@ -105,5 +87,3 @@
 	
 	</script>
 
-<body>
-</html>
