@@ -50,8 +50,13 @@
 				</pre>
 			</div>
 			<div class="col-12">
-				for validation before input you can use this code: var isValid=$('.jalaliDate').ShamsiDatePickerValidate()
-				you can see sample code that log of validation in end of page(last element of bbody) in bottom:
+				for validation before input you can use this code:
+	<pre><code>
+	&lt;script &gt; var isValid=$('.jalaliDate').ShamsiDatePickerValidate();
+	&lt;/script&gt;
+	</code>
+				</pre>
+				you can see sample code that log of validation in end of page(append of body):
   				<pre>
 	<code>
 	&lt;script &gt;
