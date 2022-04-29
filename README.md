@@ -27,11 +27,9 @@
 					<code>
 					&lt;link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"&gt;
 					&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/style.css"&gt;
-					
 					&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
 					&lt;script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"&gt;&lt;/script&gt;
 					&lt;script src="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/jalalidatepicker.js"&gt;&lt;/script&gt;
-					
 					</code>
 				</pre>
 			</div>
