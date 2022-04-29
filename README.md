@@ -1,4 +1,5 @@
-
+<html>
+	<body>
 	<div class="container"> 
 		<h1>Shamsi Date Picker</h1>
 		<div class="row">
@@ -87,3 +88,5 @@
 	
 	</script>
 
+	</body>
+</html>
