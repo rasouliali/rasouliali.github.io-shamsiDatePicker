@@ -39,7 +39,6 @@
 			First botton validate shamsi date picker and return validation in string the 
 			parameters in returned string join by comma.(first value is error code. After that comma sign. Second is error description. After that comma sign. Third is element id that has error and repeat this 
 			for each element and all of them seperate with comma sign).
-			
 			Second bottom validation as common validation and show error after the each date picker box.
 		</div>
 		<button class="btn btn-success mt-3" id="validatejalalidate">validate jalali date</button>
