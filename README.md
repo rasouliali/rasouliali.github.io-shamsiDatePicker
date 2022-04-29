@@ -6,7 +6,7 @@
 			<div class="col-12">
 				bottom shamsi date picker made by jquery and some bootstrap classes. only use buttom code:
 				<pre>
-					<code>$('.jalaliDate').ShamsiDatePicker();</code>
+		<code>$('.jalaliDate').ShamsiDatePicker();</code>
 				</pre>
 			</div>
 			<div class="col-12">
@@ -24,29 +24,29 @@
 			<div class="col-12">
 				As you know the common jquery and bootstrap links are these links:
   				<pre>
-					<code>
-					&lt;link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"&gt;
-					&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
-					&lt;script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"&gt;&lt;/script&gt;
+		<code>
+	&lt;link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"&gt;
+	&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
+	&lt;script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"&gt;&lt;/script&gt;
 					</code>
 				</pre>
 			</div>
 			<div class="col-12">
 				and only added these two files:
   				<pre>
-					<code>
-					&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/style.css"&gt;
-					&lt;script src="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/jalalidatepicker.js"&gt;&lt;/script&gt;
+	<code>
+	&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/style.css"&gt;
+	&lt;script src="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/jalalidatepicker.js"&gt;&lt;/script&gt;
 					</code>
 				</pre>
 			</div>
 			<div class="col-12">
 				and then you add input tag and run script:
   				<pre>
-					<code>
-					&lt;input type="text" id="shamsidate4" value="1399/13/20" class="jalaliDate"/&gt;
-					&lt;script &gt;$('.jalaliDate').ShamsiDatePicker(); &lt;/script&gt;
-					</code>
+	<code>
+	&lt;input type="text" id="shamsidate4" value="1399/13/20" class="jalaliDate"/&gt;
+	&lt;script &gt;$('.jalaliDate').ShamsiDatePicker(); &lt;/script&gt;
+	</code>
 				</pre>
 			</div>
 		</div>
