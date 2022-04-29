@@ -41,11 +41,10 @@
 				</pre>
 			</div>
 			<div class="col-12">
-				and only added these two files:
+				and then you add input tag and run script:
   				<pre>
 					<code>
 					&lt;input type="text" id="shamsidate4" value="1399/13/20" class="jalaliDate"/&gt;
-					&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/rasouliali/shamsidatepicker/main/style.css"&gt;
 					&lt;script &gt;$('.jalaliDate').ShamsiDatePicker(); &lt;/script&gt;
 					</code>
 				</pre>
