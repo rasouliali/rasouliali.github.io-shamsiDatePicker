@@ -1,4 +1,3 @@
-# shamsiDatePicker
 <html>
 <head>
 	
