@@ -43,7 +43,6 @@
 		</div>
 		<button class="btn btn-success mt-3" id="validatejalalidate">validate jalali date</button>
 		<button class="btn btn-success mt-3" id="validatejalalidateandShowerror">validate jalali date and Show error</button>
-		
 		<div class="col-12">
 			bottom date pickers are invalid values after click on above validation botton you can see validation errors.
 		</div>
