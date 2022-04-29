@@ -64,10 +64,10 @@
 		var validate = $('.jalaliDate').ShamsiDatePickerValidate();
 		$('.ShamsiDatePickerValidate').remove();
 		if(validate==true)
-			$('body').append('<span class="ShamsiDatePickerValidate" style="color:red">تاریخ ها صحیح هستند</span>');
+			$('body').append('&lt;span class="ShamsiDatePickerValidate" style="color:red"&gt;تاریخ ها صحیح هستند&lt;/span&gt;');
 		else
 		{
-			$('body').append('<span class="ShamsiDatePickerValidate" style="color:red">'+validate+'</span>');
+			$('body').append('&lt;span class="ShamsiDatePickerValidate" style="color:red"&gt;'+validate+'&lt;/span&gt;');
 		}
 	}); &lt;/script&gt;
 	</code>
