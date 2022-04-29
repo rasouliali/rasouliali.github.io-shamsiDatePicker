@@ -49,6 +49,25 @@
 	</code>
 				</pre>
 			</div>
+			<div class="col-12">
+				for validation before input you can use this code: var isValid=$('.jalaliDate').ShamsiDatePickerValidate()
+				you can see sample code that log of validation in end of page(last element of bbody) in bottom:
+  				<pre>
+	<code>
+	&lt;script &gt;
+	$('.jalaliDate').on('click',function(){
+		var validate = $('.jalaliDate').ShamsiDatePickerValidate();
+		$('.ShamsiDatePickerValidate').remove();
+		if(validate==true)
+			$('body').append('<span class="ShamsiDatePickerValidate" style="color:red">تاریخ ها صحیح هستند</span>');
+		else
+		{
+			$('body').append('<span class="ShamsiDatePickerValidate" style="color:red">'+validate+'</span>');
+		}
+	}); &lt;/script&gt;
+	</code>
+				</pre>
+			</div>
 		</div>
 	</body>
 </html>
